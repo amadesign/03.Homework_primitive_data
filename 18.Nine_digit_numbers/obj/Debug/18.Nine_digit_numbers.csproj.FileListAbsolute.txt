@@ -1,0 +1,4 @@
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\18.Nine_digit_numbers\bin\Debug\18.Nine_digit_numbers.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\18.Nine_digit_numbers\bin\Debug\18.Nine_digit_numbers.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\18.Nine_digit_numbers\obj\Debug\18.Nine_digit_numbers.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\18.Nine_digit_numbers\obj\Debug\18.Nine_digit_numbers.pdb

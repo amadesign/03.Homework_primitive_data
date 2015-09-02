@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\12.Null_values_arithmetic\bin\Debug\12.Null_values_arithmetic.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\12.Null_values_arithmetic\bin\Debug\12.Null_values_arithmetic.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\12.Null_values_arithmetic\obj\Debug\12.Null_values_arithmetic.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\12.Null_values_arithmetic\obj\Debug\12.Null_values_arithmetic.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\12.Null_values_arithmetic\obj\Debug\12.Null_values_arithmetic.csprojResolveAssemblyReference.cache

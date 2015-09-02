@@ -1,0 +1,4 @@
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\19.Bits_Inventer\bin\Debug\19.Bits_Inventer.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\19.Bits_Inventer\bin\Debug\19.Bits_Inventer.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\19.Bits_Inventer\obj\Debug\19.Bits_Inventer.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\19.Bits_Inventer\obj\Debug\19.Bits_Inventer.pdb

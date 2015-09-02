@@ -1,0 +1,4 @@
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\10.Employee_data\bin\Debug\10.Employee_data.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\10.Employee_data\bin\Debug\10.Employee_data.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\10.Employee_data\obj\Debug\10.Employee_data.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\10.Employee_data\obj\Debug\10.Employee_data.pdb

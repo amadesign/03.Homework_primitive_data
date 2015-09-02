@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\14.Print_ASCII_Table\bin\Debug\14.Print_ASCII_Table.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\14.Print_ASCII_Table\bin\Debug\14.Print_ASCII_Table.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\14.Print_ASCII_Table\obj\Debug\14.Print_ASCII_Table.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\14.Print_ASCII_Table\obj\Debug\14.Print_ASCII_Table.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\14.Print_ASCII_Table\obj\Debug\14.Print_ASCII_Table.csprojResolveAssemblyReference.cache

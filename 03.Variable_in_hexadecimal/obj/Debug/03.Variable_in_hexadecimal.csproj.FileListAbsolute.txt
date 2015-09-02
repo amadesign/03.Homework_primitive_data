@@ -1,0 +1,4 @@
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\03.Variable_in_hexadecimal\bin\Debug\03.Variable_in_hexadecimal.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\03.Variable_in_hexadecimal\bin\Debug\03.Variable_in_hexadecimal.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\03.Variable_in_hexadecimal\obj\Debug\03.Variable_in_hexadecimal.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\03.Variable_in_hexadecimal\obj\Debug\03.Variable_in_hexadecimal.pdb

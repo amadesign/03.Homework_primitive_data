@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\06. Strings and Objects\bin\Debug\_06.Strings_and_Objects.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\06. Strings and Objects\obj\Debug\06. Strings and Objects.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\06. Strings and Objects\obj\Debug\_06.Strings_and_Objects.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\06. Strings and Objects\obj\Debug\_06.Strings_and_Objects.pdb

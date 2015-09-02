@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\02.Float_or_double\obj\Debug\02.Float_or_double.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\02.Float_or_double\bin\Debug\02.Float_or_double.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\02.Float_or_double\bin\Debug\02.Float_or_double.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\02.Float_or_double\obj\Debug\02.Float_or_double.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\02.Float_or_double\obj\Debug\02.Float_or_double.pdb

@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\05.Boolean_variable\bin\Debug\05.Boolean_variable.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\05.Boolean_variable\bin\Debug\05.Boolean_variable.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\05.Boolean_variable\obj\Debug\05.Boolean_variable.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\05.Boolean_variable\obj\Debug\05.Boolean_variable.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\05.Boolean_variable\obj\Debug\05.Boolean_variable.pdb

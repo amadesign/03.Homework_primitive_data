@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\08.Isosceles_triangle\bin\Debug\08.Isosceles_triangle.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\08.Isosceles_triangle\bin\Debug\08.Isosceles_triangle.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\08.Isosceles_triangle\obj\Debug\08.Isosceles_triangle.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\08.Isosceles_triangle\obj\Debug\08.Isosceles_triangle.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\08.Isosceles_triangle\obj\Debug\08.Isosceles_triangle.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\15.Joro_the_footbol_player\bin\Debug\15.Joro_the_footbol_player.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\15.Joro_the_footbol_player\bin\Debug\15.Joro_the_footbol_player.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\15.Joro_the_footbol_player\obj\Debug\15.Joro_the_footbol_player.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\15.Joro_the_footbol_player\obj\Debug\15.Joro_the_footbol_player.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\15.Joro_the_footbol_player\obj\Debug\15.Joro_the_footbol_player.pdb

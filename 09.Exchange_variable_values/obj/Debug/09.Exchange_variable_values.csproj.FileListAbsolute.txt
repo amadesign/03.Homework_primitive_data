@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\09.Exchange_variable_values\bin\Debug\09.Exchange_variable_values.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\09.Exchange_variable_values\bin\Debug\09.Exchange_variable_values.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\09.Exchange_variable_values\obj\Debug\09.Exchange_variable_values.exe
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\09.Exchange_variable_values\obj\Debug\09.Exchange_variable_values.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\03.Homework_primitive_data\09.Exchange_variable_values\obj\Debug\09.Exchange_variable_values.csprojResolveAssemblyReference.cache
