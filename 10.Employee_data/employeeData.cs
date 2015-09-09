@@ -33,3 +33,9 @@
         }
     }
 }
+            //string firstName = "First name:";
+            //string firstNameIs = " Amanda";
+            //Console.WriteLine(firstName + firstNameIs);
+            //string lastName = "Last name:";
+            //string lastnameIs = " Johnoson";
+            //Console.WriteLine(lastName + lastnameIs);
