@@ -33,6 +33,8 @@
         }
     }
 }
+           //Better this way:
+           
             //string firstName = "First name:";
             //string firstNameIs = " Amanda";
             //Console.WriteLine(firstName + firstNameIs);
